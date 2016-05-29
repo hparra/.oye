@@ -1,0 +1,9 @@
+{
+  "examples": {
+    "license": {
+      "description": "HGPA's MIT license",
+      "source": "LICENSE",
+      "target": "LICENSE"
+    }
+  }
+}
