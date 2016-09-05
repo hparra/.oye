@@ -4,6 +4,21 @@
       "description": "HGPA's MIT license",
       "source": "LICENSE",
       "target": "LICENSE"
+    },
+    "cli": {
+      "description": "commander-based CLI",
+      "source": "commander.js",
+      "target": "cli.js"
+    },
+    "gitignore": {
+      "description": "HGPA's .gitignore",
+      "source": "gitignore",
+      "target": ".gitignore"   
+    },
+    "mocha": {
+      "description": "mocha test",
+      "source": "mocha.js",
+      "target": "test.js"   
     }
   }
 }
